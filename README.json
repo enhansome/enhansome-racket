@@ -1,0 +1,1386 @@
+{
+  "items": [
+    {
+      "description": "Libraries for manipulating audio.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RSound",
+          "description": "A framework for manipulating and playing sounds using the portaudio library. Runs on Windows, Mac OS X, and linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-04-02T04:27:32Z",
+            "owner": "jbclements",
+            "repo": "RSound",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsc3",
+          "description": "SuperCollider client ported to Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-09-16T03:27:51Z",
+            "owner": "khafatech",
+            "repo": "rsc3",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "portaudio",
+          "description": "Bindings for portaudio, a cross-platform audio library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-03-29T22:57:48Z",
+            "owner": "jbclements",
+            "repo": "portaudio",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osc",
+          "description": "Open Sound Control data definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-02-04T18:01:08Z",
+            "owner": "jbclements",
+            "repo": "osc",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sonic-pi",
+          "description": "For now, this package starts scsynth just like sonic pi does, and can make a few sounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-11-15T03:49:53Z",
+            "owner": "jbclements",
+            "repo": "sonic-pi",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libopenal-racket",
+          "description": "Racket wrapper to the OpenAL library first written by gcr in 2012.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-11-09T01:16:40Z",
+            "owner": "lehitoskin",
+            "repo": "libopenal-racket",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midi-readwrite",
+          "description": "Library to read .mid files in racket",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-05-08T01:19:11Z",
+            "owner": "jbclements",
+            "repo": "midi-readwrite",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtmidi",
+          "description": "Provides racket bindings for the RtMidi library, thus enabling racket programs to send and receive MIDI events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-03-29T05:32:10Z",
+            "owner": "jbclements",
+            "repo": "rtmidi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taglib",
+          "description": "Bindings to the taglib C library, which provides simple access to audio file metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2016-11-01T03:38:10Z",
+            "owner": "takikawa",
+            "repo": "taglib-racket",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3s",
+          "description": "Positional sound and mixing for lux and other applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-05-14T14:47:53Z",
+            "owner": "jeapostrophe",
+            "repo": "3s",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openal",
+          "description": "FFI for OpenAL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-10-25T22:19:15Z",
+            "owner": "jeapostrophe",
+            "repo": "openal",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavelet-transform-haar-1d",
+          "description": "A library to perform forward and reverse 1-d Haar Wavelet transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2016-01-21T06:02:24Z",
+            "owner": "jbclements",
+            "repo": "wavelet-transform-haar-1d",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Audio and Music"
+    },
+    {
+      "description": "Tools for compiling Racket to other languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "racketscript",
+          "description": "A lightweight Racket to JavaScript compiler with some batteries included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-02-18T16:57:13Z",
+            "owner": "racketscript",
+            "repo": "racketscript",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urlang",
+          "description": "Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-03-05T18:41:31Z",
+            "owner": "soegaard",
+            "repo": "urlang",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minipascal",
+          "description": "MiniPascal as a Racket language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2021-09-26T12:46:52Z",
+            "owner": "soegaard",
+            "repo": "minipascal",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disassemble",
+          "description": "Disassembler for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-06-29T18:06:37Z",
+            "owner": "samth",
+            "repo": "disassemble",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens",
+          "description": "A Racket package for creating and composing pure functional lenses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2019-09-10T18:29:24Z",
+            "owner": "jackfirth",
+            "repo": "lens",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-adventure",
+          "description": "A WebAssembly DSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-08-03T21:24:19Z",
+            "owner": "euhmeuh",
+            "repo": "wasm-adventure",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zordoz",
+          "description": "Explorer for .zo bytecode files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-10-24T23:56:48Z",
+            "owner": "bennn",
+            "repo": "zordoz",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wracket",
+          "description": "Lisp-like language to WebAssembly build with racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-11-26T18:38:26Z",
+            "owner": "sschauss",
+            "repo": "wracket",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whalesong-tools",
+          "description": "DrRacket tool for compiling with Whalesong.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2015-06-08T13:43:25Z",
+            "owner": "vishesh",
+            "repo": "drracket-whalesong",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abstract-compilation",
+          "description": "DSL reducing boiler plates for doing abstract compilation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-03-07T03:42:00Z",
+            "owner": "philnguyen",
+            "repo": "abstract-compilation",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Compilers"
+    },
+    {
+      "description": "Generic datastructures and algorithms.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "algebraic",
+          "description": "Algebraic structures for untyped Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-07-16T23:20:14Z",
+            "owner": "dedbox",
+            "repo": "racket-algebraic",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graph",
+          "description": "Generic graph library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-11-21T13:44:05Z",
+            "owner": "stchang",
+            "repo": "graph",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gls",
+          "description": "Generic Little (Object, Type, Anything, etc) System - multiple dispatch on types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-05-05T11:36:45Z",
+            "owner": "Kalimehtar",
+            "repo": "gls",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dssl2",
+          "description": "A language for data structures students.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-07-10T20:29:49Z",
+            "owner": "tov",
+            "repo": "dssl2",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dssl",
+          "description": "Data Structures Student Language: an extension of ASL for easier imperative programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-07-02T20:27:19Z",
+            "owner": "tov",
+            "repo": "dssl",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phc-adt",
+          "description": "Algebraic Data Types for Typed/Racket, with features tailored to compiler writing. The data types do not have to be declared before they are used, like prefab structs and symbols. Behind the scenes, this library remembers all the data types in a file, and uses it to implicitly pre-declare them. Mostly stable, although some things may change a bit in the future.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-05-13T14:58:33Z",
+            "owner": "SuzanneSoy",
+            "repo": "phc-adt",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quad-tree",
+          "description": "A fairly simple quad-tree implementation. Nothing terribly fancy. Currently rather unstable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2016-04-08T08:26:12Z",
+            "owner": "dented42",
+            "repo": "racket-quad-tree",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data Structures"
+    },
+    {
+      "description": "Libraries for connecting and operating databases.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deta",
+          "description": "A functional database mapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-07-16T04:55:58Z",
+            "owner": "Bogdanp",
+            "repo": "deta",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sql",
+          "description": "an S-expression notation for SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-03-24T14:35:44Z",
+            "owner": "rmculpepper",
+            "repo": "sql",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racquel",
+          "description": "Racquel is an object/relational mapper for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-03-10T09:14:58Z",
+            "owner": "brown131",
+            "repo": "racquel",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "db",
+          "description": "Database connectivity (main distribution).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-08-11T02:08:18Z",
+            "owner": "racket",
+            "repo": "db",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongodb",
+          "description": "A native Racket interface to MongoDB & BSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-01-05T15:43:14Z",
+            "owner": "jeapostrophe",
+            "repo": "mongodb",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redis",
+          "description": "A redis client for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2015-05-16T02:03:44Z",
+            "owner": "stchang",
+            "repo": "redis",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rackdis",
+          "description": "Redis bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Racket",
+            "last_commit": "2023-07-05T10:11:20Z",
+            "owner": "eu90h",
+            "repo": "rackdis",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbm",
+          "description": "An interface to UNIX dbm files using a libdbm FFI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2019-12-18T00:51:20Z",
+            "owner": "jeapostrophe",
+            "repo": "dbm",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fra",
+          "description": "Purely functional implementation of relational algebra.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Racket",
+            "last_commit": "2017-12-13T17:15:06Z",
+            "owner": "jeapostrophe",
+            "repo": "fra",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binary-class-dbf",
+          "description": "Interface to *.dbf files (dBase, Foxpro, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2014-10-07T02:05:23Z",
+            "owner": "Kalimehtar",
+            "repo": "binary-class-dbf",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite-table",
+          "description": "A quick way to create and query sqlite tables. Basically a simplified wrapper for a subset of the db library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-12-05T06:20:21Z",
+            "owner": "jbclements",
+            "repo": "sqlite-table",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Database Drivers"
+    },
+    {
+      "description": "Racket programs emulating other computers and architectures",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "virtual-mpu",
+          "description": "Universal Emulator & Assembler for Old Microprocessors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-09-10T14:30:33Z",
+            "owner": "euhmeuh",
+            "repo": "virtual-mpu",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6502",
+          "description": "An emulator/assembler/disassembler for 6502.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-07-13T12:46:32Z",
+            "owner": "soegaard",
+            "repo": "6502",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Emulators"
+    },
+    {
+      "description": "Libraries for cross platform GUI development",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gui-easy",
+          "description": "A declarative API on top of .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-06-12T16:11:43Z",
+            "owner": "Bogdanp",
+            "repo": "racket-gui-easy",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrEd Designer",
+          "description": "MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-05-06T13:48:08Z",
+            "owner": "Metaxal",
+            "repo": "MrEd-Designer",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "GUI Development"
+    },
+    {
+      "description": "Awesome game development libraries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "get-bonus",
+          "description": "An experimental video game development environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-03-10T23:59:30Z",
+            "owner": "get-bonus",
+            "repo": "get-bonus",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mode-lambda",
+          "description": "Sprite-based 2D graphics engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-10-04T15:02:33Z",
+            "owner": "jeapostrophe",
+            "repo": "mode-lambda",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pict3d",
+          "description": "A 3D engine with a purely functional API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2025-01-16T17:08:41Z",
+            "owner": "jeapostrophe",
+            "repo": "pict3d",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "game-engine",
+          "description": "Scratchpad for racket game stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2020-08-17T17:40:08Z",
+            "owner": "thoughtstem",
+            "repo": "game-engine",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vr-lang",
+          "description": "Racket Lang for Virtual Reality (Aframe).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2020-06-09T20:30:44Z",
+            "owner": "thoughtstem",
+            "repo": "vr-engine",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apse",
+          "description": "A Pixel Sprite Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Racket",
+            "last_commit": "2017-08-16T14:05:24Z",
+            "owner": "jeapostrophe",
+            "repo": "apse",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "towers",
+          "description": "Towers is an original 2-player board game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-11-01T08:10:45Z",
+            "owner": "Metaxal",
+            "repo": "towers",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "Games written in Racket",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "r-cade",
+          "description": "Retro Game Engine for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-07-05T09:30:36Z",
+            "owner": "massung",
+            "repo": "r-cade",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Racket games",
+          "description": "games in main distribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-08-11T02:08:35Z",
+            "owner": "racket",
+            "repo": "games",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "space-invaders",
+          "description": "A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2015-02-21T14:30:46Z",
+            "owner": "soegaard",
+            "repo": "space-invaders",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-sweeper",
+          "description": "Stateless Server Side Mine Sweeper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-11-21T05:50:46Z",
+            "owner": "Halfwake",
+            "repo": "web-sweeper",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "Libraries for manipulating images.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "video",
+          "description": "Video is a DSL for describing videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2019-11-17T01:07:14Z",
+            "owner": "videolang",
+            "repo": "video",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racket-jpeg",
+          "description": "JPEG parsing, transformation, and codec library for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2016-09-18T20:21:28Z",
+            "owner": "wingo",
+            "repo": "racket-jpeg",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-qr",
+          "description": "a qr code tool for racket-lang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-06-15T02:38:32Z",
+            "owner": "simmone",
+            "repo": "racket-simple-qr",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "png-image",
+          "description": "Library to view and modify PNG chunks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2019-05-21T16:14:02Z",
+            "owner": "lehitoskin",
+            "repo": "png-image",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Images"
+    },
+    {
+      "description": "Libraries for Machine Learning.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "layer",
+          "description": "Neural network inference the Unix way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2019-04-21T07:04:23Z",
+            "owner": "cloudkj",
+            "repo": "layer",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepRacket",
+          "description": "A simple starting point for doing deep learning in Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-03-28T22:32:17Z",
+            "owner": "charlescearl",
+            "repo": "DeepRacket",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racket-ml",
+          "description": "A collection of things I found useful for doing Machine Learning problem sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-12-20T20:33:25Z",
+            "owner": "danking",
+            "repo": "racket-ml",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racket-knn",
+          "description": "K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2013-04-17T03:05:29Z",
+            "owner": "asbaker",
+            "repo": "racket-knn",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rml-core",
+          "description": "This Package is part of an expected set of packages implementing machine learning capabilities for Racket. The core of this package is the management of 'datasets', these datasets are assumed to be for training and testing of machine learning capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-06-18T15:25:24Z",
+            "owner": "johnstonskj",
+            "repo": "rml-core",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rml-decisiontrees",
+          "description": "This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements support for classification of individuals using decision trees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-06-18T15:25:51Z",
+            "owner": "johnstonskj",
+            "repo": "rml-decisiontrees",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rml-knn",
+          "description": "This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements the K-Nearest Neighbor approach for classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-03-25T16:20:29Z",
+            "owner": "johnstonskj",
+            "repo": "rml-knn",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseract",
+          "description": "Bindings for Google's Tesseract-OCR.",
+          "children": []
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "Awesome macros that make your life easier",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "threading",
+          "description": "Macros to flatten nested function calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-10-11T23:37:56Z",
+            "owner": "lexi-lambda",
+            "repo": "threading",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anaphoric",
+          "description": "Anaphoric macros for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-07-29T01:08:48Z",
+            "owner": "SuzanneSoy",
+            "repo": "anaphoric",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Macros"
+    },
+    {
+      "description": "Libraries that implement messaging systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neuron-lib",
+          "description": "Implementation of neuron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-05-16T21:13:56Z",
+            "owner": "dedbox",
+            "repo": "racket-neuron",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "profj",
+          "description": "Kathy Gray's ProfessorJ language ported to modern DrRacket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2023-08-08T13:08:31Z",
+            "owner": "mflatt",
+            "repo": "profj",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zmq",
+          "description": "Minimal Racket ZeroMQ Bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2015-09-02T10:38:05Z",
+            "owner": "mordae",
+            "repo": "racket-zmq",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeromq-r",
+          "description": "Bindings for ZeroMQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-05-27T10:46:24Z",
+            "owner": "rmculpepper",
+            "repo": "racket-zeromq",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stomp",
+          "description": "STOMP messaging protocol codec and client.",
+          "children": []
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "Libraries for accessing third party APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws",
+          "description": "Amazon Web Services including S3, SDB, SES, SNS, SQS, CloudWatch, Glacier, Dynamo, and Route 53.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-04-17T15:08:05Z",
+            "owner": "greghendershott",
+            "repo": "aws",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racket-ovh",
+          "description": "Unofficial Racket wrapper for OVH API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-04-06T14:41:49Z",
+            "owner": "euhmeuh",
+            "repo": "racket-ovh",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recaptcha",
+          "description": "Utilities for using reCAPTCHA with the web-server/formlets API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-12-08T05:24:02Z",
+            "owner": "LiberalArtist",
+            "repo": "recaptcha",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "comm-panel",
+          "description": "Racket GUI widget for sending, receiving, listening, and broadcasting strings over AWS SQS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2018-06-16T16:31:38Z",
+            "owner": "thoughtstem",
+            "repo": "comm-panel",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cloudformation-deploy",
+          "description": "AWS Cloudformation deployment scripting library.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "google",
+          "description": "Google APIs (Drive, Plus, etc) for Racket.",
+          "children": []
+        }
+      ],
+      "title": "Third-party APIs"
+    },
+    {
+      "description": "Libraries for testing codebases and generating test data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cover",
+          "description": "a code coverage tool for racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-05-16T18:55:38Z",
+            "owner": "florence",
+            "repo": "cover",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "al2-test-runner",
+          "description": "alternate rackunit test runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2020-08-28T03:22:15Z",
+            "owner": "alex-hhh",
+            "repo": "al2-test-runner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-more",
+          "description": "A Racket version of Perl's Test::More library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-03-09T16:28:59Z",
+            "owner": "dstorrs",
+            "repo": "racket-test-more",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Full stack web frameworks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "frog",
+          "description": "Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2025-11-23T20:16:03Z",
+            "owner": "greghendershott",
+            "repo": "frog",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spin",
+          "description": "Write RESTful web apps in Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-07-27T18:36:41Z",
+            "owner": "dmac",
+            "repo": "spin",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koyo",
+          "description": "A web development toolkit for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-07-19T13:12:37Z",
+            "owner": "Bogdanp",
+            "repo": "koyo",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rackt",
+          "description": "An ultrasmall (~70 loc) React wrapper written in RacketScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2025-04-02T18:06:43Z",
+            "owner": "rackt-org",
+            "repo": "rackt",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riposte",
+          "description": "Scripting language for testing JSON-based HTTP APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-10-13T10:20:57Z",
+            "owner": "vicampo",
+            "repo": "riposte",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vela",
+          "description": "Simple web framework to build RESTful app in Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-07-14T02:07:02Z",
+            "owner": "nuty",
+            "repo": "vela",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-galaxy",
+          "description": "A minimalist web framework for the Racket web-server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2023-03-10T07:20:34Z",
+            "owner": "euhmeuh",
+            "repo": "web-galaxy",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racket-request",
+          "description": "Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-08-02T02:05:16Z",
+            "owner": "jackfirth",
+            "repo": "racket-request",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Routy",
+          "description": "Routy is a lightweight high performance HTTP request router for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2022-08-30T17:20:13Z",
+            "owner": "Junker",
+            "repo": "routy",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polkadot",
+          "description": "A lightweight personal wiki in Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-05-19T13:00:19Z",
+            "owner": "2-3",
+            "repo": "polkadot",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoLy",
+          "description": "HoLy is simple a HTTP-server Library for Racket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2017-11-03T16:20:01Z",
+            "owner": "nihirash",
+            "repo": "holy",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:50.099Z",
+    "original_repository": "avelino/awesome-racket",
+    "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
+    "enhanced_repository": "enhansome/enhansome-racket",
+    "enhanced_repository_description": null,
+    "title": "Awesome Racket with stars"
+  }
+}
