@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992956,
             "language": "Racket",
             "last_commit": "2026-04-02T04:27:32Z",
             "owner": "jbclements",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16872399,
             "language": "Racket",
             "last_commit": "2024-09-16T03:27:51Z",
             "owner": "khafatech",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2353933,
             "language": "Racket",
             "last_commit": "2026-03-29T22:57:48Z",
             "owner": "jbclements",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4083287,
             "language": "Racket",
             "last_commit": "2024-02-04T18:01:08Z",
             "owner": "jbclements",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38512153,
             "language": "Clojure",
             "last_commit": "2017-11-15T03:49:53Z",
             "owner": "jbclements",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21159459,
             "language": "Racket",
             "last_commit": "2024-11-09T01:16:40Z",
             "owner": "lehitoskin",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2773568,
             "language": "Racket",
             "last_commit": "2017-05-08T01:19:11Z",
             "owner": "jbclements",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26498345,
             "language": "Racket",
             "last_commit": "2021-03-29T05:32:10Z",
             "owner": "jbclements",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2577544,
             "language": "Racket",
             "last_commit": "2016-11-01T03:38:10Z",
             "owner": "takikawa",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46359835,
             "language": "Racket",
             "last_commit": "2022-05-14T14:47:53Z",
             "owner": "jeapostrophe",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46311249,
             "language": "Racket",
             "last_commit": "2024-10-25T22:19:15Z",
             "owner": "jeapostrophe",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47148600,
             "language": "Racket",
             "last_commit": "2016-01-21T06:02:24Z",
             "owner": "jbclements",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52491211,
             "language": "Racket",
             "last_commit": "2026-02-18T16:57:13Z",
             "owner": "racketscript",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40402158,
             "language": "Racket",
             "last_commit": "2026-03-05T18:41:31Z",
             "owner": "soegaard",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7889135,
             "language": "Pascal",
             "last_commit": "2021-09-26T12:46:52Z",
             "owner": "soegaard",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224531,
             "language": "Scheme",
             "last_commit": "2026-06-29T18:06:37Z",
             "owner": "samth",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31137793,
             "language": "Racket",
             "last_commit": "2019-09-10T18:29:24Z",
             "owner": "jackfirth",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106301812,
             "language": "Racket",
             "last_commit": "2018-08-03T21:24:19Z",
             "owner": "euhmeuh",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27804424,
             "language": "Racket",
             "last_commit": "2021-10-24T23:56:48Z",
             "owner": "bennn",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112106545,
             "language": "Racket",
             "last_commit": "2017-11-26T18:38:26Z",
             "owner": "sschauss",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35183868,
             "language": "Racket",
             "last_commit": "2015-06-08T13:43:25Z",
             "owner": "vishesh",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124142884,
             "language": "Racket",
             "last_commit": "2018-03-07T03:42:00Z",
             "owner": "philnguyen",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140366463,
             "language": "Racket",
             "last_commit": "2024-07-16T23:20:14Z",
             "owner": "dedbox",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12011653,
             "language": "Racket",
             "last_commit": "2023-11-21T13:44:05Z",
             "owner": "stchang",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16466885,
             "language": "Racket",
             "last_commit": "2024-05-05T11:36:45Z",
             "owner": "Kalimehtar",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93645003,
             "language": "Racket",
             "last_commit": "2026-07-10T20:29:49Z",
             "owner": "tov",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61719313,
             "language": "Racket",
             "last_commit": "2017-07-02T20:27:19Z",
             "owner": "tov",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59867888,
             "language": "Racket",
             "last_commit": "2021-05-13T14:58:33Z",
             "owner": "SuzanneSoy",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53356467,
             "language": "Racket",
             "last_commit": "2016-04-08T08:26:12Z",
             "owner": "dented42",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196550158,
             "language": "Racket",
             "last_commit": "2026-07-16T04:55:58Z",
             "owner": "Bogdanp",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32065057,
             "language": "Racket",
             "last_commit": "2022-03-24T14:35:44Z",
             "owner": "rmculpepper",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12853792,
             "language": "Racket",
             "last_commit": "2021-03-10T09:14:58Z",
             "owner": "brown131",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27431270,
             "language": "Racket",
             "last_commit": "2026-08-11T02:08:18Z",
             "owner": "racket",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617893,
             "language": "Racket",
             "last_commit": "2023-01-05T15:43:14Z",
             "owner": "jeapostrophe",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13167713,
             "language": "Racket",
             "last_commit": "2015-05-16T02:03:44Z",
             "owner": "stchang",
@@ -518,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41001185,
             "language": "Racket",
             "last_commit": "2023-07-05T10:11:20Z",
             "owner": "eu90h",
@@ -532,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617875,
             "language": "Racket",
             "last_commit": "2019-12-18T00:51:20Z",
             "owner": "jeapostrophe",
@@ -546,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 617882,
             "language": "Racket",
             "last_commit": "2017-12-13T17:15:06Z",
             "owner": "jeapostrophe",
@@ -560,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20829527,
             "language": "Racket",
             "last_commit": "2014-10-07T02:05:23Z",
             "owner": "Kalimehtar",
@@ -574,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73419002,
             "language": "Racket",
             "last_commit": "2017-12-05T06:20:21Z",
             "owner": "jbclements",
@@ -594,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134100131,
             "language": "Racket",
             "last_commit": "2018-09-10T14:30:33Z",
             "owner": "euhmeuh",
@@ -608,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140842235,
             "language": "Racket",
             "last_commit": "2018-07-13T12:46:32Z",
             "owner": "soegaard",
@@ -628,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375967470,
             "language": "Racket",
             "last_commit": "2026-06-12T16:11:43Z",
             "owner": "Bogdanp",
@@ -642,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4072527,
             "language": "Racket",
             "last_commit": "2021-05-06T13:48:08Z",
             "owner": "Metaxal",
@@ -662,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1464238,
             "language": "Racket",
             "last_commit": "2021-03-10T23:59:30Z",
             "owner": "get-bonus",
@@ -676,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24722704,
             "language": "Racket",
             "last_commit": "2021-10-04T15:02:33Z",
             "owner": "jeapostrophe",
@@ -690,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48293236,
             "language": "Racket",
             "last_commit": "2025-01-16T17:08:41Z",
             "owner": "jeapostrophe",
@@ -704,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121582129,
             "language": "Racket",
             "last_commit": "2020-08-17T17:40:08Z",
             "owner": "thoughtstem",
@@ -718,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124606622,
             "language": "Racket",
             "last_commit": "2020-06-09T20:30:44Z",
             "owner": "thoughtstem",
@@ -732,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35848271,
             "language": "Racket",
             "last_commit": "2017-08-16T14:05:24Z",
             "owner": "jeapostrophe",
@@ -746,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12677762,
             "language": "Racket",
             "last_commit": "2021-11-01T08:10:45Z",
             "owner": "Metaxal",
@@ -766,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236192472,
             "language": "Racket",
             "last_commit": "2023-07-05T09:30:36Z",
             "owner": "massung",
@@ -780,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27138761,
             "language": "Racket",
             "last_commit": "2026-08-11T02:08:35Z",
             "owner": "racket",
@@ -794,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31125898,
             "language": "Racket",
             "last_commit": "2015-02-21T14:30:46Z",
             "owner": "soegaard",
@@ -808,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24516902,
             "language": "Racket",
             "last_commit": "2017-11-21T05:50:46Z",
             "owner": "Halfwake",
@@ -828,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91842442,
             "language": "Racket",
             "last_commit": "2019-11-17T01:07:14Z",
             "owner": "videolang",
@@ -842,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68387677,
             "language": "Racket",
             "last_commit": "2016-09-18T20:21:28Z",
             "owner": "wingo",
@@ -856,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36293844,
             "language": "Racket",
             "last_commit": "2024-06-15T02:38:32Z",
             "owner": "simmone",
@@ -870,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76210945,
             "language": "Racket",
             "last_commit": "2019-05-21T16:14:02Z",
             "owner": "lehitoskin",
@@ -890,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160924633,
             "language": "Scheme",
             "last_commit": "2019-04-21T07:04:23Z",
             "owner": "cloudkj",
@@ -904,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86529327,
             "language": "Racket",
             "last_commit": "2026-03-28T22:32:17Z",
             "owner": "charlescearl",
@@ -918,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14431105,
             "language": "Racket",
             "last_commit": "2018-12-20T20:33:25Z",
             "owner": "danking",
@@ -932,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9486538,
             "language": "Racket",
             "last_commit": "2013-04-17T03:05:29Z",
             "owner": "asbaker",
@@ -946,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138965481,
             "language": "Racket",
             "last_commit": "2024-06-18T15:25:24Z",
             "owner": "johnstonskj",
@@ -960,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144037844,
             "language": "Racket",
             "last_commit": "2024-06-18T15:25:51Z",
             "owner": "johnstonskj",
@@ -974,18 +1039,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139077149,
             "language": "Racket",
             "last_commit": "2024-03-25T16:20:29Z",
             "owner": "johnstonskj",
             "repo": "rml-knn",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "tesseract",
-          "description": "Bindings for Google's Tesseract-OCR.",
-          "children": []
         }
       ],
       "title": "Machine Learning"
@@ -1000,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43866144,
             "language": "Racket",
             "last_commit": "2024-10-11T23:37:56Z",
             "owner": "lexi-lambda",
@@ -1014,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55770211,
             "language": "Racket",
             "last_commit": "2021-07-29T01:08:48Z",
             "owner": "SuzanneSoy",
@@ -1034,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115617919,
             "language": "Racket",
             "last_commit": "2022-05-16T21:13:56Z",
             "owner": "dedbox",
@@ -1048,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10001564,
             "language": "Scheme",
             "last_commit": "2023-08-08T13:08:31Z",
             "owner": "mflatt",
@@ -1062,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10963941,
             "language": "Racket",
             "last_commit": "2015-09-02T10:38:05Z",
             "owner": "mordae",
@@ -1076,18 +1141,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99159583,
             "language": "Racket",
             "last_commit": "2022-05-27T10:46:24Z",
             "owner": "rmculpepper",
             "repo": "racket-zeromq",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "stomp",
-          "description": "STOMP messaging protocol codec and client.",
-          "children": []
         }
       ],
       "title": "Messaging"
@@ -1102,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5463553,
             "language": "Racket",
             "last_commit": "2026-04-17T15:08:05Z",
             "owner": "greghendershott",
@@ -1116,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128230743,
             "language": "Racket",
             "last_commit": "2018-04-06T14:41:49Z",
             "owner": "euhmeuh",
@@ -1130,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87190587,
             "language": "Racket",
             "last_commit": "2022-12-08T05:24:02Z",
             "owner": "LiberalArtist",
@@ -1144,24 +1207,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137518401,
             "language": "Racket",
             "last_commit": "2018-06-16T16:31:38Z",
             "owner": "thoughtstem",
             "repo": "comm-panel",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cloudformation-deploy",
-          "description": "AWS Cloudformation deployment scripting library.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "google",
-          "description": "Google APIs (Drive, Plus, etc) for Racket.",
-          "children": []
         }
       ],
       "title": "Third-party APIs"
@@ -1176,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24347312,
             "language": "Racket",
             "last_commit": "2024-05-16T18:55:38Z",
             "owner": "florence",
@@ -1190,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289385304,
             "language": "Racket",
             "last_commit": "2020-08-28T03:22:15Z",
             "owner": "alex-hhh",
@@ -1204,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148522511,
             "language": "Racket",
             "last_commit": "2023-03-09T16:28:59Z",
             "owner": "dstorrs",
@@ -1224,6 +1279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8730959,
             "language": "Racket",
             "last_commit": "2025-11-23T20:16:03Z",
             "owner": "greghendershott",
@@ -1238,6 +1294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2402844,
             "language": "Racket",
             "last_commit": "2017-07-27T18:36:41Z",
             "owner": "dmac",
@@ -1252,6 +1309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189833202,
             "language": "Racket",
             "last_commit": "2026-07-19T13:12:37Z",
             "owner": "Bogdanp",
@@ -1266,6 +1324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381004940,
             "language": "Racket",
             "last_commit": "2025-04-02T18:06:43Z",
             "owner": "rackt-org",
@@ -1280,6 +1339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151718283,
             "language": "Racket",
             "last_commit": "2021-10-13T10:20:57Z",
             "owner": "vicampo",
@@ -1294,6 +1354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184068045,
             "language": "Racket",
             "last_commit": "2023-07-14T02:07:02Z",
             "owner": "nuty",
@@ -1308,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128263338,
             "language": "Racket",
             "last_commit": "2023-03-10T07:20:34Z",
             "owner": "euhmeuh",
@@ -1322,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38994326,
             "language": "Racket",
             "last_commit": "2022-08-02T02:05:16Z",
             "owner": "jackfirth",
@@ -1336,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176070621,
             "language": "Racket",
             "last_commit": "2022-08-30T17:20:13Z",
             "owner": "Junker",
@@ -1350,6 +1414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41610724,
             "language": "Racket",
             "last_commit": "2017-05-19T13:00:19Z",
             "owner": "2-3",
@@ -1364,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105815298,
             "language": "Racket",
             "last_commit": "2017-11-03T16:20:01Z",
             "owner": "nihirash",
@@ -1376,8 +1442,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:54:32.460Z",
+    "last_updated": "2026-08-19T12:49:41.060Z",
     "original_repository": "avelino/awesome-racket",
+    "original_repository_id": 148055117,
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
     "enhanced_repository": "enhansome/enhansome-racket",
     "enhanced_repository_description": null,
