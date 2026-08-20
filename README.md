@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,584 | 🐛 214 | 🌐 Go | 📅 2026-08-19.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,715 | 🐛 214 | 🌐 Go | 📅 2026-08-20.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain) ⭐ 506 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,824 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,232 | 🐛 105 | 📅 2026-08-18
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,199 | 🐛 599 | 🌐 Racket | 📅 2026-08-19
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,199 | 🐛 599 | 🌐 Racket | 📅 2026-08-20
 
 ### Contents
 
@@ -54,11 +54,11 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Tools for compiling Racket to other languages.*
 
-* [racketscript](https://github.com/racketscript/racketscript) ⭐ 738 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
+* [racketscript](https://github.com/racketscript/racketscript) ⭐ 736 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 308 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
 * [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 1 | 🌐 Scheme | 📅 2026-06-29 - Disassembler for Racket.
-* [lens](https://github.com/jackfirth/lens) ⭐ 80 | 🐛 49 | 🌐 Racket | 📅 2019-09-10 - A Racket package for creating and composing pure functional lenses.
+* [lens](https://github.com/jackfirth/lens) ⭐ 79 | 🐛 49 | 🌐 Racket | 📅 2019-09-10 - A Racket package for creating and composing pure functional lenses.
 * [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) ⭐ 74 | 🐛 1 | 🌐 Racket | 📅 2018-08-03 - A WebAssembly DSL.
 * [zordoz](https://github.com/bennn/zordoz) ⭐ 26 | 🐛 10 | 🌐 Racket | 📅 2021-10-24 - Explorer for .zo bytecode files.
 * [wracket](https://github.com/sschauss/wracket) ⭐ 23 | 🐛 0 | 🌐 Racket | 📅 2017-11-26 - Lisp-like language to WebAssembly build with racket.
@@ -72,7 +72,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [algebraic](https://github.com/dedbox/racket-algebraic) ⭐ 78 | 🐛 36 | 🌐 Racket | 📅 2024-07-16 - Algebraic structures for untyped Racket.
 * [graph](https://github.com/stchang/graph) ⭐ 60 | 🐛 18 | 🌐 Racket | 📅 2023-11-21 - Generic graph library.
 * [gls](https://github.com/Kalimehtar/gls) ⭐ 18 | 🐛 0 | 🌐 Racket | 📅 2024-05-05 - Generic Little (Object, Type, Anything, etc) System - multiple dispatch on types.
-* [dssl2](https://github.com/tov/dssl2) ⭐ 9 | 🐛 15 | 🌐 Racket | 📅 2026-07-10 - A language for data structures students.
+* [dssl2](https://github.com/tov/dssl2) ⭐ 9 | 🐛 15 | 🌐 Racket | 📅 2026-08-20 - A language for data structures students.
 * [dssl](https://github.com/tov/dssl) ⭐ 5 | 🐛 0 | 🌐 Racket | 📅 2017-07-02 - Data Structures Student Language: an extension of ASL for easier imperative programming.
 * [phc-adt](https://github.com/jsmaniac/phc-adt) ⭐ 3 | 🐛 12 | 🌐 Racket | 📅 2021-05-13 - Algebraic Data Types for Typed/Racket, with features tailored to compiler writing. The data types do not have to be declared before they are used, like prefab structs and symbols. Behind the scenes, this library remembers all the data types in a file, and uses it to implicitly pre-declare them. Mostly stable, although some things may change a bit in the future.
 * [quad-tree](https://github.com/dented42/racket-quad-tree) ⭐ 1 | 🐛 0 | 🌐 Racket | 📅 2016-04-08 - A fairly simple quad-tree implementation. Nothing terribly fancy. Currently rather unstable.
@@ -85,7 +85,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 *Libraries for connecting and operating databases.*
 
 * [deta](https://github.com/Bogdanp/deta) ⭐ 65 | 🐛 6 | 🌐 Racket | 📅 2026-07-16 - A functional database mapper.
-* [sql](https://github.com/rmculpepper/sql) ⭐ 34 | 🐛 12 | 🌐 Racket | 📅 2022-03-24 - an S-expression notation for SQL.
+* [sql](https://github.com/rmculpepper/sql) ⭐ 33 | 🐛 12 | 🌐 Racket | 📅 2022-03-24 - an S-expression notation for SQL.
 * [racquel](https://github.com/brown131/racquel) ⭐ 25 | 🐛 4 | 🌐 Racket | 📅 2021-03-10 - Racquel is an object/relational mapper for Racket.
 * [db](https://github.com/racket/db) ⭐ 24 | 🐛 3 | 🌐 Racket | 📅 2026-08-11 - Database connectivity (main distribution).
 * [mongodb](https://github.com/jeapostrophe/mongodb) ⭐ 18 | 🐛 2 | 🌐 Racket | 📅 2023-01-05 - A native Racket interface to MongoDB & BSON.
@@ -107,7 +107,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for cross platform GUI development*
 
-* [gui-easy](https://github.com/Bogdanp/racket-gui-easy) ⭐ 153 | 🐛 8 | 🌐 Racket | 📅 2026-06-12 - A declarative API on top of `racket/gui`.
+* [gui-easy](https://github.com/Bogdanp/racket-gui-easy) ⭐ 152 | 🐛 8 | 🌐 Racket | 📅 2026-06-12 - A declarative API on top of `racket/gui`.
 * [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) ⭐ 63 | 🐛 9 | 🌐 Racket | 📅 2021-05-06 - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).
 * [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution).
 * [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket.
@@ -130,7 +130,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Games written in Racket*
 
-* [r-cade](https://github.com/massung/r-cade) ⭐ 290 | 🐛 9 | 🌐 Racket | 📅 2023-07-05 - Retro Game Engine for Racket.
+* [r-cade](https://github.com/massung/r-cade) ⭐ 287 | 🐛 9 | 🌐 Racket | 📅 2023-07-05 - Retro Game Engine for Racket.
 * [Racket games](https://github.com/racket/games) ⭐ 51 | 🐛 1 | 🌐 Racket | 📅 2026-08-11 - games in main distribution.
 * [space-invaders](https://github.com/soegaard/space-invaders) ⭐ 7 | 🐛 0 | 🌐 Racket | 📅 2015-02-21 - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 * [web-sweeper](https://github.com/Halfwake/web-sweeper) ⭐ 7 | 🐛 2 | 🌐 Racket | 📅 2017-11-21 - Stateless Server Side Mine Sweeper.
@@ -161,7 +161,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Awesome macros that make your life easier*
 
-* [threading](https://github.com/lexi-lambda/threading) ⭐ 54 | 🐛 1 | 🌐 Racket | 📅 2024-10-11 - Macros to flatten nested function calls.
+* [threading](https://github.com/lexi-lambda/threading) ⭐ 53 | 🐛 1 | 🌐 Racket | 📅 2024-10-11 - Macros to flatten nested function calls.
 * [anaphoric](https://github.com/jsmaniac/anaphoric) ⭐ 8 | 🐛 0 | 🌐 Racket | 📅 2021-07-29 - Anaphoric macros for Racket.
 
 ## Messaging
@@ -198,7 +198,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Full stack web frameworks.*
 
-* [frog](https://github.com/greghendershott/frog) ⭐ 939 | 🐛 42 | 🌐 Racket | 📅 2025-11-23 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
+* [frog](https://github.com/greghendershott/frog) ⭐ 939 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 * [Spin](https://github.com/dmac/spin) ⭐ 231 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
 * [koyo](https://github.com/Bogdanp/koyo) ⭐ 158 | 🐛 0 | 🌐 Racket | 📅 2026-07-19 - A web development toolkit for Racket.
 * [Rackt](https://github.com/rackt-org/rackt) ⭐ 61 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

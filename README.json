@@ -201,7 +201,7 @@
             "last_commit": "2026-02-18T16:57:13Z",
             "owner": "racketscript",
             "repo": "racketscript",
-            "stars": 738
+            "stars": 736
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2019-09-10T18:29:24Z",
             "owner": "jackfirth",
             "repo": "lens",
-            "stars": 80
+            "stars": 79
           }
         },
         {
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 93645003,
             "language": "Racket",
-            "last_commit": "2026-07-10T20:29:49Z",
+            "last_commit": "2026-08-20T16:22:19Z",
             "owner": "tov",
             "repo": "dssl2",
             "stars": 9
@@ -483,7 +483,7 @@
             "last_commit": "2022-03-24T14:35:44Z",
             "owner": "rmculpepper",
             "repo": "sql",
-            "stars": 34
+            "stars": 33
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-06-12T16:11:43Z",
             "owner": "Bogdanp",
             "repo": "racket-gui-easy",
-            "stars": 153
+            "stars": 152
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2023-07-05T09:30:36Z",
             "owner": "massung",
             "repo": "r-cade",
-            "stars": 290
+            "stars": 287
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2024-10-11T23:37:56Z",
             "owner": "lexi-lambda",
             "repo": "threading",
-            "stars": 54
+            "stars": 53
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "archived": false,
             "id": 8730959,
             "language": "Racket",
-            "last_commit": "2025-11-23T20:16:03Z",
+            "last_commit": "2026-08-20T13:27:37Z",
             "owner": "greghendershott",
             "repo": "frog",
             "stars": 939
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:54:35.777Z",
+    "last_updated": "2026-08-20T23:55:46.128Z",
     "original_repository": "avelino/awesome-racket",
     "original_repository_id": 148055117,
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
