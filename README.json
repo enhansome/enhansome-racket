@@ -1284,7 +1284,7 @@
             "last_commit": "2026-08-20T13:27:37Z",
             "owner": "greghendershott",
             "repo": "frog",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:28.191Z",
+    "last_updated": "2026-08-24T23:53:44.357Z",
     "original_repository": "avelino/awesome-racket",
     "original_repository_id": 148055117,
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",

@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,112 | 🐛 215 | 🌐 Go | 📅 2026-08-21.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,150 | 🐛 215 | 🌐 Go | 📅 2026-08-24.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain) ⭐ 507 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,615 | 🐛 106 | 📅 2026-08-21
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,198 | 🐛 602 | 🌐 Racket | 📅 2026-08-21
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,198 | 🐛 603 | 🌐 Racket | 📅 2026-08-21
 
 ### Contents
 
@@ -198,7 +198,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Full stack web frameworks.*
 
-* [frog](https://github.com/greghendershott/frog) ⭐ 939 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
+* [frog](https://github.com/greghendershott/frog) ⭐ 940 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 * [Spin](https://github.com/dmac/spin) ⭐ 231 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
 * [koyo](https://github.com/Bogdanp/koyo) ⭐ 158 | 🐛 0 | 🌐 Racket | 📅 2026-07-19 - A web development toolkit for Racket.
 * [Rackt](https://github.com/rackt-org/rackt) ⭐ 61 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
