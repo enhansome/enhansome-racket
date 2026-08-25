@@ -644,7 +644,7 @@
         },
         {
           "node_type": "item",
-          "title": "6502",
+          "title": "soegaard/6502",
           "description": "An emulator/assembler/disassembler for 6502.",
           "children": [],
           "repo_info": {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:53:44.357Z",
+    "last_updated": "2026-08-25T06:14:51.887Z",
     "original_repository": "avelino/awesome-racket",
     "original_repository_id": 148055117,
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
