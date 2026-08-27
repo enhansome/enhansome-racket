@@ -1314,7 +1314,7 @@
             "last_commit": "2026-07-19T13:12:37Z",
             "owner": "Bogdanp",
             "repo": "koyo",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:55:24.298Z",
+    "last_updated": "2026-08-27T04:59:47.679Z",
     "original_repository": "avelino/awesome-racket",
     "original_repository_id": 148055117,
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
