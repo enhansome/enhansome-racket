@@ -1442,9 +1442,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:59:47.679Z",
-    "original_repository": "avelino/awesome-racket",
-    "original_repository_id": 148055117,
+    "last_updated": "2026-08-27T12:00:26.569Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 148055117,
+      "language": "Racket",
+      "last_commit": "2023-06-24T07:13:12Z",
+      "owner": "avelino",
+      "repo": "awesome-racket",
+      "stars": 507
+    },
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
     "enhanced_repository": "enhansome/enhansome-racket",
     "enhanced_repository_description": null,
