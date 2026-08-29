@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform sound library for DrRacket",
+            "homepage": "http://www.brinckerhoff.org/clements",
             "id": 992956,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-04-02T04:27:32Z",
+            "open_issues": 29,
             "owner": "jbclements",
             "repo": "RSound",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rsc3 ported to Racket and organized as package",
+            "homepage": null,
             "id": 16872399,
             "language": "Racket",
+            "license": null,
             "last_commit": "2024-09-16T03:27:51Z",
+            "open_issues": 0,
             "owner": "khafatech",
             "repo": "rsc3",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket Bindings for PortAudio",
+            "homepage": null,
             "id": 2353933,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-29T22:57:48Z",
+            "open_issues": 7,
             "owner": "jbclements",
             "repo": "portaudio",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket bindings for OSC",
+            "homepage": null,
             "id": 4083287,
             "language": "Racket",
+            "license": null,
             "last_commit": "2024-02-04T18:01:08Z",
+            "open_issues": 3,
             "owner": "jbclements",
             "repo": "osc",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sonic Pi experimentation in Racket",
+            "homepage": null,
             "id": 38512153,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-15T03:49:53Z",
+            "open_issues": 0,
             "owner": "jbclements",
             "repo": "sonic-pi",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -90,12 +115,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket wrapper to the libopenal library",
+            "homepage": null,
             "id": 21159459,
             "language": "Racket",
+            "license": "Zlib",
             "last_commit": "2024-11-09T01:16:40Z",
+            "open_issues": 0,
             "owner": "lehitoskin",
             "repo": "libopenal-racket",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "openal",
+              "racket-ffi",
+              "racket-lang",
+              "racket-wrapper"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -106,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "library to read .mid files in racket",
+            "homepage": null,
             "id": 2773568,
             "language": "Racket",
+            "license": null,
             "last_commit": "2017-05-08T01:19:11Z",
+            "open_issues": 0,
             "owner": "jbclements",
             "repo": "midi-readwrite",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -122,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket bindings for RtMidi",
+            "homepage": null,
             "id": 26498345,
             "language": "Racket",
+            "license": null,
             "last_commit": "2021-03-29T05:32:10Z",
+            "open_issues": 1,
             "owner": "jbclements",
             "repo": "rtmidi",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -138,12 +183,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket FFI bindings to taglibc",
+            "homepage": null,
             "id": 2577544,
             "language": "Racket",
+            "license": "LGPL-3.0",
             "last_commit": "2016-11-01T03:38:10Z",
+            "open_issues": 0,
             "owner": "takikawa",
             "repo": "taglib-racket",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "racket",
+              "taglib"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -154,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3s - positional sound and mixing for lux and other applications",
+            "homepage": null,
             "id": 46359835,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-14T14:47:53Z",
+            "open_issues": 0,
             "owner": "jeapostrophe",
             "repo": "3s",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -170,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openal - FFI for OpenAL",
+            "homepage": null,
             "id": 46311249,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-25T22:19:15Z",
+            "open_issues": 0,
             "owner": "jeapostrophe",
             "repo": "openal",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -186,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket code for linear Haar wavelet transforms on one-dimensional data",
+            "homepage": null,
             "id": 47148600,
             "language": "Racket",
+            "license": "MPL-2.0",
             "last_commit": "2016-01-21T06:02:24Z",
+            "open_issues": 0,
             "owner": "jbclements",
             "repo": "wavelet-transform-haar-1d",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -208,12 +276,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket to JavaScript Compiler",
+            "homepage": null,
             "id": 52491211,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2026-02-18T16:57:13Z",
+            "open_issues": 81,
             "owner": "racketscript",
             "repo": "racketscript",
-            "stars": 736
+            "stars": 736,
+            "topics": [
+              "compiler",
+              "javascript",
+              "programming-language",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -224,12 +302,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Urlang is JavaScript with a sane syntax",
+            "homepage": null,
             "id": 40402158,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-03-05T18:41:31Z",
+            "open_issues": 8,
             "owner": "soegaard",
             "repo": "urlang",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "compiler",
+              "javascript",
+              "nanopass",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -240,12 +328,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniPascal implemented in Racket",
+            "homepage": null,
             "id": 7889135,
             "language": "Pascal",
+            "license": null,
             "last_commit": "2021-09-26T12:46:52Z",
+            "open_issues": 0,
             "owner": "soegaard",
             "repo": "minipascal",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "compiler",
+              "pascal",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -256,12 +353,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disassembler for Racket",
+            "homepage": null,
             "id": 1224531,
             "language": "Scheme",
+            "license": "MIT",
             "last_commit": "2026-06-29T18:06:37Z",
+            "open_issues": 1,
             "owner": "samth",
             "repo": "disassemble",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "disassembler",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -272,12 +377,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Racket package for creating and composing pure functional lenses",
+            "homepage": null,
             "id": 31137793,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-10T18:29:24Z",
+            "open_issues": 49,
             "owner": "jackfirth",
             "repo": "lens",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "lenses",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -288,12 +401,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My adventure into the marvelous world of Web Assembly",
+            "homepage": "https://euhmeuh.github.io/wasm-adventure/",
             "id": 106301812,
             "language": "Racket",
+            "license": "GPL-3.0",
             "last_commit": "2018-08-03T21:24:19Z",
+            "open_issues": 1,
             "owner": "euhmeuh",
             "repo": "wasm-adventure",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "game",
+              "lisp-game-jam",
+              "racket",
+              "wasm",
+              "web-assembly"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -304,12 +428,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manipulating racket bytecode",
+            "homepage": null,
             "id": 27804424,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-24T23:56:48Z",
+            "open_issues": 10,
             "owner": "bennn",
             "repo": "zordoz",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -320,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lisp-like language to WebAssembly build with racket",
+            "homepage": null,
             "id": 112106545,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-26T18:38:26Z",
+            "open_issues": 0,
             "owner": "sschauss",
             "repo": "wracket",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -336,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Whalesong plugin for DrRacket IDE",
+            "homepage": null,
             "id": 35183868,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2015-06-08T13:43:25Z",
+            "open_issues": 6,
             "owner": "vishesh",
             "repo": "drracket-whalesong",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -352,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple DSL reducing some boiler plates in doing abstract compilation",
+            "homepage": null,
             "id": 124142884,
             "language": "Racket",
+            "license": null,
             "last_commit": "2018-03-07T03:42:00Z",
+            "open_issues": 0,
             "owner": "philnguyen",
             "repo": "abstract-compilation",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -374,12 +520,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algebraic structures for untyped Racket",
+            "homepage": null,
             "id": 140366463,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-07-16T23:20:14Z",
+            "open_issues": 36,
             "owner": "dedbox",
             "repo": "racket-algebraic",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "algebraic",
+              "functional-programming",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -390,12 +545,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic graph library and algorithms for Racket.",
+            "homepage": null,
             "id": 12011653,
             "language": "Racket",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-21T13:44:05Z",
+            "open_issues": 18,
             "owner": "stchang",
             "repo": "graph",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "algorithms",
+              "graph",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -406,12 +570,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic Little System",
+            "homepage": null,
             "id": 16466885,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-05-05T11:36:45Z",
+            "open_issues": 0,
             "owner": "Kalimehtar",
             "repo": "gls",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -422,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data structures student language, version 2",
+            "homepage": null,
             "id": 93645003,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2026-08-20T16:22:19Z",
+            "open_issues": 15,
             "owner": "tov",
             "repo": "dssl2",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -438,12 +614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Structures Student Language",
+            "homepage": null,
             "id": 61719313,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2017-07-02T20:27:19Z",
+            "open_issues": 0,
             "owner": "tov",
             "repo": "dssl",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -454,12 +635,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algebraic Datatypes for Typed/Racket, with some special features useful for writing compilers",
+            "homepage": null,
             "id": 59867888,
             "language": "Racket",
+            "license": "CC0-1.0",
             "last_commit": "2021-05-13T14:58:33Z",
+            "open_issues": 12,
             "owner": "SuzanneSoy",
             "repo": "phc-adt",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "algebraic-data-types",
+              "racket-library"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -470,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of quad-trees in Racket.",
+            "homepage": null,
             "id": 53356467,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-08T08:26:12Z",
+            "open_issues": 0,
             "owner": "dented42",
             "repo": "racket-quad-tree",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -492,12 +686,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database mapper for Racket.",
+            "homepage": "https://deta.defn.io",
             "id": 196550158,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-07-16T04:55:58Z",
+            "open_issues": 6,
             "owner": "Bogdanp",
             "repo": "deta",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "linq",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -508,12 +710,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedding of some of SQL into Racket",
+            "homepage": null,
             "id": 32065057,
             "language": "Racket",
+            "license": null,
             "last_commit": "2022-03-24T14:35:44Z",
+            "open_issues": 12,
             "owner": "rmculpepper",
             "repo": "sql",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -524,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Object/Relational Mapper for Racket",
+            "homepage": null,
             "id": 12853792,
             "language": "Racket",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-10T09:14:58Z",
+            "open_issues": 4,
             "owner": "brown131",
             "repo": "racquel",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -540,12 +754,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 27431270,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T02:08:18Z",
+            "open_issues": 3,
             "owner": "racket",
             "repo": "db",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -556,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "raw mongodb interface in Racket",
+            "homepage": null,
             "id": 617893,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-05T15:43:14Z",
+            "open_issues": 2,
             "owner": "jeapostrophe",
             "repo": "mongodb",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -572,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A redis client for Racket.",
+            "homepage": null,
             "id": 13167713,
             "language": "Racket",
+            "license": null,
             "last_commit": "2015-05-16T02:03:44Z",
+            "open_issues": 9,
             "owner": "stchang",
             "repo": "redis",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -588,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Redis bindings for Racket",
+            "homepage": null,
             "id": 41001185,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2023-07-05T10:11:20Z",
+            "open_issues": 1,
             "owner": "eu90h",
             "repo": "rackdis",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -604,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFI to dbm",
+            "homepage": null,
             "id": 617875,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-18T00:51:20Z",
+            "open_issues": 0,
             "owner": "jeapostrophe",
             "repo": "dbm",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -620,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "functional relational algebra implementation",
+            "homepage": null,
             "id": 617882,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-13T17:15:06Z",
+            "open_issues": 1,
             "owner": "jeapostrophe",
             "repo": "fra",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -636,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interface for reading/writing DBF (DBase, Foxbase, ...) files",
+            "homepage": null,
             "id": 20829527,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2014-10-07T02:05:23Z",
+            "open_issues": 0,
             "owner": "Kalimehtar",
             "repo": "binary-class-dbf",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -652,12 +903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a racket interface to simplify the creation of sqlite tables, including basic support for SELECT",
+            "homepage": null,
             "id": 73419002,
             "language": "Racket",
+            "license": "MPL-2.0",
             "last_commit": "2017-12-05T06:20:21Z",
+            "open_issues": 0,
             "owner": "jbclements",
             "repo": "sqlite-table",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -674,12 +930,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Emulator & Assembler for Old Microprocessors",
+            "homepage": null,
             "id": 134100131,
             "language": "Racket",
+            "license": "GPL-3.0",
             "last_commit": "2018-09-10T14:30:33Z",
+            "open_issues": 0,
             "owner": "euhmeuh",
             "repo": "virtual-mpu",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "assembler",
+              "emulator",
+              "motorola",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -690,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An emulator/assembler/disassmbler for 6502",
+            "homepage": null,
             "id": 140842235,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2018-07-13T12:46:32Z",
+            "open_issues": 0,
             "owner": "soegaard",
             "repo": "6502",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -712,12 +983,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative GUIs in Racket.",
+            "homepage": "https://docs.racket-lang.org/gui-easy/index.html",
             "id": 375967470,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-06-12T16:11:43Z",
+            "open_issues": 8,
             "owner": "Bogdanp",
             "repo": "racket-gui-easy",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "gui",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -728,12 +1007,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily design Racket GUI applications",
+            "homepage": null,
             "id": 4072527,
             "language": "Racket",
+            "license": "GPL-2.0",
             "last_commit": "2021-05-06T13:48:08Z",
+            "open_issues": 9,
             "owner": "Metaxal",
             "repo": "MrEd-Designer",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "racket",
+              "racket-gui"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -750,12 +1037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an experimental video game development environment",
+            "homepage": null,
             "id": 1464238,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-10T23:59:30Z",
+            "open_issues": 1,
             "owner": "get-bonus",
             "repo": "get-bonus",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -766,12 +1058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mode-lambda - sprite-based 2D graphics engine",
+            "homepage": null,
             "id": 24722704,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-04T15:02:33Z",
+            "open_issues": 2,
             "owner": "jeapostrophe",
             "repo": "mode-lambda",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -782,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3-dimensional picts",
+            "homepage": null,
             "id": 48293236,
             "language": "Racket",
+            "license": "LGPL-3.0",
             "last_commit": "2025-01-16T17:08:41Z",
+            "open_issues": 10,
             "owner": "jeapostrophe",
             "repo": "pict3d",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -798,12 +1100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scratchpad for racket game stuff.",
+            "homepage": null,
             "id": 121582129,
             "language": "Racket",
+            "license": null,
             "last_commit": "2020-08-17T17:40:08Z",
+            "open_issues": 0,
             "owner": "thoughtstem",
             "repo": "game-engine",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -814,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket Lang for Virtual Reality (Aframe)",
+            "homepage": null,
             "id": 124606622,
             "language": "Racket",
+            "license": null,
             "last_commit": "2020-06-09T20:30:44Z",
+            "open_issues": 3,
             "owner": "thoughtstem",
             "repo": "vr-engine",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -830,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "apse - A Pixel Sprite Editor",
+            "homepage": null,
             "id": 35848271,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-16T14:05:24Z",
+            "open_issues": 0,
             "owner": "jeapostrophe",
             "repo": "apse",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -846,12 +1163,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towers is an original 2-player board game.",
+            "homepage": null,
             "id": 12677762,
             "language": "Racket",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-01T08:10:45Z",
+            "open_issues": 0,
             "owner": "Metaxal",
             "repo": "towers",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "racket",
+              "racket-gui"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -868,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro Game Engine for Racket",
+            "homepage": "https://r-cade.io",
             "id": 236192472,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-05T09:30:36Z",
+            "open_issues": 9,
             "owner": "massung",
             "repo": "r-cade",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -884,12 +1214,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 27138761,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T02:08:35Z",
+            "open_issues": 1,
             "owner": "racket",
             "repo": "games",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -900,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Space Invaders",
+            "homepage": null,
             "id": 31125898,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2015-02-21T14:30:46Z",
+            "open_issues": 0,
             "owner": "soegaard",
             "repo": "space-invaders",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -916,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stateless Server Side Mine Sweeper",
+            "homepage": null,
             "id": 24516902,
             "language": "Racket",
+            "license": "AGPL-3.0",
             "last_commit": "2017-11-21T05:50:46Z",
+            "open_issues": 2,
             "owner": "Halfwake",
             "repo": "web-sweeper",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -938,12 +1285,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source Code for Video language.",
+            "homepage": "https://lang.video",
             "id": 91842442,
             "language": "Racket",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-17T01:07:14Z",
+            "open_issues": 22,
             "owner": "videolang",
             "repo": "video",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "racket",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -954,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JPEG parsing, transformation, and codec library for Racket",
+            "homepage": null,
             "id": 68387677,
             "language": "Racket",
+            "license": null,
             "last_commit": "2016-09-18T20:21:28Z",
+            "open_issues": 2,
             "owner": "wingo",
             "repo": "racket-jpeg",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -970,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a qr code tool for racket-lang",
+            "homepage": null,
             "id": 36293844,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-06-15T02:38:32Z",
+            "open_issues": 1,
             "owner": "simmone",
             "repo": "racket-simple-qr",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -986,12 +1351,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to view and modify PNG chunks.",
+            "homepage": null,
             "id": 76210945,
             "language": "Racket",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-21T16:14:02Z",
+            "open_issues": 1,
             "owner": "lehitoskin",
             "repo": "png-image",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "png",
+              "racket-library"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1008,12 +1381,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural network inference the Unix way",
+            "homepage": null,
             "id": 160924633,
             "language": "Scheme",
+            "license": "MIT",
             "last_commit": "2019-04-21T07:04:23Z",
+            "open_issues": 0,
             "owner": "cloudkj",
             "repo": "layer",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "chicken-scheme",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "lisp",
+              "machine-learning",
+              "neural-networks",
+              "scheme",
+              "unix-command"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1024,12 +1411,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple starting point for doing deep learning in Racket",
+            "homepage": null,
             "id": 86529327,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2026-03-28T22:32:17Z",
+            "open_issues": 6,
             "owner": "charlescearl",
             "repo": "DeepRacket",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "cudnn",
+              "deep-learning",
+              "racket",
+              "scheme"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1040,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of things I found useful for doing Machine Learning problem sets.",
+            "homepage": null,
             "id": 14431105,
             "language": "Racket",
+            "license": null,
             "last_commit": "2018-12-20T20:33:25Z",
+            "open_issues": 2,
             "owner": "danking",
             "repo": "racket-ml",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1056,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket.",
+            "homepage": null,
             "id": 9486538,
             "language": "Racket",
+            "license": null,
             "last_commit": "2013-04-17T03:05:29Z",
+            "open_issues": 0,
             "owner": "asbaker",
             "repo": "racket-knn",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1072,12 +1479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket Machine Learning",
+            "homepage": null,
             "id": 138965481,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-06-18T15:25:24Z",
+            "open_issues": 0,
             "owner": "johnstonskj",
             "repo": "rml-core",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1088,12 +1500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket Machine Learning - Decision Trees",
+            "homepage": null,
             "id": 144037844,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-06-18T15:25:51Z",
+            "open_issues": 0,
             "owner": "johnstonskj",
             "repo": "rml-decisiontrees",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1104,12 +1521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K-Nearest Neighbor implementation in Racket.",
+            "homepage": null,
             "id": 139077149,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-03-25T16:20:29Z",
+            "open_issues": 0,
             "owner": "johnstonskj",
             "repo": "rml-knn",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1126,12 +1548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threading macros for Racket",
+            "homepage": null,
             "id": 43866144,
             "language": "Racket",
+            "license": "ISC",
             "last_commit": "2024-10-11T23:37:56Z",
+            "open_issues": 1,
             "owner": "lexi-lambda",
             "repo": "threading",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1142,12 +1569,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anaphoric macros for racket",
+            "homepage": "http://docs.racket-lang.org/anaphoric/",
             "id": 55770211,
             "language": "Racket",
+            "license": "CC0-1.0",
             "last_commit": "2021-07-29T01:08:48Z",
+            "open_issues": 0,
             "owner": "SuzanneSoy",
             "repo": "anaphoric",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "racket-library"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1164,12 +1598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized Software Organisms",
+            "homepage": null,
             "id": 115617919,
             "language": "Racket",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-16T21:13:56Z",
+            "open_issues": 19,
             "owner": "dedbox",
             "repo": "racket-neuron",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1180,12 +1619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kathy Gray's ProfessorJ as a Racket v5.x package",
+            "homepage": null,
             "id": 10001564,
             "language": "Scheme",
+            "license": null,
             "last_commit": "2023-08-08T13:08:31Z",
+            "open_issues": 2,
             "owner": "mflatt",
             "repo": "profj",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1196,12 +1640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Racket ZeroMQ Bindings",
+            "homepage": null,
             "id": 10963941,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2015-09-02T10:38:05Z",
+            "open_issues": 3,
             "owner": "mordae",
             "repo": "racket-zmq",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1212,12 +1661,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket bindings for ZeroMQ",
+            "homepage": null,
             "id": 99159583,
             "language": "Racket",
+            "license": null,
             "last_commit": "2022-05-27T10:46:24Z",
+            "open_issues": 2,
             "owner": "rmculpepper",
             "repo": "racket-zeromq",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "racket",
+              "zeromq"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1234,12 +1691,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket support for Amazon Web Services.",
+            "homepage": null,
             "id": 5463553,
             "language": "Racket",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-17T15:08:05Z",
+            "open_issues": 13,
             "owner": "greghendershott",
             "repo": "aws",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "amazon-web-services",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1250,12 +1715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Racket wrapper for OVH API",
+            "homepage": null,
             "id": 128230743,
             "language": "Racket",
+            "license": "LGPL-3.0",
             "last_commit": "2018-04-06T14:41:49Z",
+            "open_issues": 0,
             "owner": "euhmeuh",
             "repo": "racket-ovh",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1266,12 +1736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for using reCAPTCHA with the web-server/formlets API",
+            "homepage": null,
             "id": 87190587,
             "language": "Racket",
+            "license": "MPL-2.0",
             "last_commit": "2022-12-08T05:24:02Z",
+            "open_issues": 0,
             "owner": "LiberalArtist",
             "repo": "recaptcha",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1282,12 +1757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket GUI widget for sending, receiving, listening, and broadcasting strings over AWS SQS",
+            "homepage": null,
             "id": 137518401,
             "language": "Racket",
+            "license": null,
             "last_commit": "2018-06-16T16:31:38Z",
+            "open_issues": 0,
             "owner": "thoughtstem",
             "repo": "comm-panel",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1304,12 +1784,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a code coverage tool for racket",
+            "homepage": null,
             "id": 24347312,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2024-05-16T18:55:38Z",
+            "open_issues": 14,
             "owner": "florence",
             "repo": "cover",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "coverage",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1320,12 +1808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "alternate rackunit test runner",
+            "homepage": null,
             "id": 289385304,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-28T03:22:15Z",
+            "open_issues": 0,
             "owner": "alex-hhh",
             "repo": "al2-test-runner",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1336,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Racket version of Perl's Test::More library",
+            "homepage": null,
             "id": 148522511,
             "language": "Racket",
+            "license": null,
             "last_commit": "2023-03-09T16:28:59Z",
+            "open_issues": 0,
             "owner": "dstorrs",
             "repo": "racket-test-more",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1358,12 +1856,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.",
+            "homepage": null,
             "id": 8730959,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-08-20T13:27:37Z",
+            "open_issues": 41,
             "owner": "greghendershott",
             "repo": "frog",
-            "stars": 940
+            "stars": 940,
+            "topics": [
+              "blog-engine",
+              "racket",
+              "static-blog"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1374,12 +1881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write RESTful web apps in Racket.",
+            "homepage": null,
             "id": 2402844,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2017-07-27T18:36:41Z",
+            "open_issues": 4,
             "owner": "dmac",
             "repo": "spin",
-            "stars": 231
+            "stars": 231,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1390,12 +1902,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web development toolkit for Racket.",
+            "homepage": "https://koyoweb.org",
             "id": 189833202,
             "language": "Racket",
+            "license": null,
             "last_commit": "2026-07-19T13:12:37Z",
+            "open_issues": 0,
             "owner": "Bogdanp",
             "repo": "koyo",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "framework",
+              "racket",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1406,12 +1927,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ultrasmall (~70 loc) React wrapper written in RacketScript",
+            "homepage": "https://rackt-org.github.io/",
             "id": 381004940,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-02T18:06:43Z",
+            "open_issues": 2,
             "owner": "rackt-org",
             "repo": "rackt",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "javascript",
+              "racket",
+              "racketscript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1422,12 +1953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripting language for testing JSON-based HTTP APIs",
+            "homepage": null,
             "id": 151718283,
             "language": "Racket",
+            "license": "ISC",
             "last_commit": "2021-10-13T10:20:57Z",
+            "open_issues": 7,
             "owner": "vicampo",
             "repo": "riposte",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1438,12 +1974,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web framework for Racket. ",
+            "homepage": null,
             "id": 184068045,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2023-07-14T02:07:02Z",
+            "open_issues": 0,
             "owner": "nuty",
             "repo": "vela",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "framework",
+              "racket",
+              "restful",
+              "web",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1454,12 +2001,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist web framework for the Racket web-server",
+            "homepage": null,
             "id": 128263338,
             "language": "Racket",
+            "license": "LGPL-3.0",
             "last_commit": "2023-03-10T07:20:34Z",
+            "open_issues": 1,
             "owner": "euhmeuh",
             "repo": "web-galaxy",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "racket",
+              "racket-library",
+              "web-galaxy"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1470,12 +2026,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket",
+            "homepage": null,
             "id": 38994326,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2022-08-02T02:05:16Z",
+            "open_issues": 8,
             "owner": "jackfirth",
             "repo": "racket-request",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "http",
+              "racket",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1486,12 +2051,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Routy is a lightweight high performance HTTP request router for Racket",
+            "homepage": null,
             "id": 176070621,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2022-08-30T17:20:13Z",
+            "open_issues": 0,
             "owner": "Junker",
             "repo": "routy",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "http-server",
+              "racket",
+              "routing"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1502,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight personal wiki in Racket",
+            "homepage": null,
             "id": 41610724,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2017-05-19T13:00:19Z",
+            "open_issues": 0,
             "owner": "2-3",
             "repo": "polkadot",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         },
@@ -1518,12 +2097,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HoLy is simple http library for Racket language",
+            "homepage": null,
             "id": 105815298,
             "language": "Racket",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-03T16:20:01Z",
+            "open_issues": 0,
             "owner": "nihirash",
             "repo": "holy",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "http-server",
+              "racket-lang",
+              "racket-library",
+              "rest-api",
+              "waf",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
         }
@@ -1532,15 +2123,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:44.750Z",
+    "last_updated": "2026-08-29T04:30:45.696Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
+      "homepage": "https://awesome-racket.com/",
       "id": 148055117,
       "language": "Racket",
+      "license": "MIT",
       "last_commit": "2023-06-24T07:13:12Z",
+      "open_issues": 0,
       "owner": "avelino",
       "repo": "awesome-racket",
-      "stars": 507
+      "stars": 507,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "racket",
+        "racket-lang",
+        "racket-language",
+        "racket-library"
+      ]
     },
     "original_repository_sha": "0faedc0c254259a60e73a148cc19aa13c915cab9",
     "enhanced_repository": "enhansome/enhansome-racket",
