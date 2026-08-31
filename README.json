@@ -311,7 +311,7 @@
             "open_issues": 8,
             "owner": "soegaard",
             "repo": "urlang",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "compiler",
               "javascript",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:37:04.741Z",
+    "last_updated": "2026-08-31T01:34:31.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
