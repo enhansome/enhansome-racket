@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,741 | 🐛 221 | 🌐 Go | 📅 2026-08-30.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,819 | 🐛 223 | 🌐 Go | 📅 2026-08-31.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain) ⭐ 507 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,479 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,752 | 🐛 105 | 📅 2026-08-21
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,201 | 🐛 603 | 🌐 Racket | 📅 2026-08-29
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,203 | 🐛 603 | 🌐 Racket | 📅 2026-08-29
 
 ### Contents
 
@@ -54,7 +54,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Tools for compiling Racket to other languages.*
 
-* [racketscript](https://github.com/racketscript/racketscript) ⭐ 736 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
+* [racketscript](https://github.com/racketscript/racketscript) ⭐ 737 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 309 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
 * [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 1 | 🌐 Scheme | 📅 2026-06-29 - Disassembler for Racket.
@@ -108,7 +108,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 *Libraries for cross platform GUI development*
 
 * [gui-easy](https://github.com/Bogdanp/racket-gui-easy) ⭐ 153 | 🐛 8 | 🌐 Racket | 📅 2026-06-12 - A declarative API on top of `racket/gui`.
-* [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) ⭐ 63 | 🐛 9 | 🌐 Racket | 📅 2021-05-06 - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).
+* [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) ⭐ 64 | 🐛 9 | 🌐 Racket | 📅 2021-05-06 - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).
 * [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution).
 * [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket.
 * [map-widget](https://pkgs.racket-lang.org/package/map-widget) - A Racket GUI Widget to display maps based on OpenStreetMap tiles
@@ -201,7 +201,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [frog](https://github.com/greghendershott/frog) ⭐ 940 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 * [Spin](https://github.com/dmac/spin) ⭐ 231 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
 * [koyo](https://github.com/Bogdanp/koyo) ⭐ 159 | 🐛 0 | 🌐 Racket | 📅 2026-07-19 - A web development toolkit for Racket.
-* [Rackt](https://github.com/rackt-org/rackt) ⭐ 61 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
+* [Rackt](https://github.com/rackt-org/rackt) ⭐ 62 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
 * [riposte](https://github.com/vicampo/riposte) ⭐ 46 | 🐛 7 | 🌐 Racket | 📅 2021-10-13 - Scripting language for testing JSON-based HTTP APIs.
 * [vela](https://github.com/nuty/vela) ⭐ 41 | 🐛 0 | 🌐 Racket | 📅 2023-07-14 - Simple web framework to build RESTful app in Racket.
 * [web-galaxy](https://github.com/euhmeuh/web-galaxy) ⭐ 27 | 🐛 1 | 🌐 Racket | 📅 2023-03-10 - A minimalist web framework for the Racket web-server.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

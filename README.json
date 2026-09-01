@@ -285,7 +285,7 @@
             "open_issues": 81,
             "owner": "racketscript",
             "repo": "racketscript",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "compiler",
               "javascript",
@@ -1016,7 +1016,7 @@
             "open_issues": 9,
             "owner": "Metaxal",
             "repo": "MrEd-Designer",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "racket",
               "racket-gui"
@@ -1936,7 +1936,7 @@
             "open_issues": 2,
             "owner": "rackt-org",
             "repo": "rackt",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "javascript",
               "racket",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:34:31.114Z",
+    "last_updated": "2026-09-01T02:01:41.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
