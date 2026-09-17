@@ -1865,7 +1865,7 @@
             "open_issues": 41,
             "owner": "greghendershott",
             "repo": "frog",
-            "stars": 940,
+            "stars": 939,
             "topics": [
               "blog-engine",
               "racket",
@@ -1907,7 +1907,7 @@
             "id": 189833202,
             "language": "Racket",
             "license": null,
-            "last_commit": "2026-09-10T09:18:18Z",
+            "last_commit": "2026-09-16T16:04:44Z",
             "open_issues": 0,
             "owner": "Bogdanp",
             "repo": "koyo",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:36:56.899Z",
+    "last_updated": "2026-09-17T01:40:00.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
