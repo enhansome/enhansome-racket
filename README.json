@@ -282,7 +282,7 @@
             "language": "Racket",
             "license": "MIT",
             "last_commit": "2026-02-18T16:57:13Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "racketscript",
             "repo": "racketscript",
             "stars": 737,
@@ -358,7 +358,7 @@
             "id": 1224531,
             "language": "Scheme",
             "license": "MIT",
-            "last_commit": "2026-06-29T18:06:37Z",
+            "last_commit": "2026-09-29T02:36:31Z",
             "open_issues": 1,
             "owner": "samth",
             "repo": "disassemble",
@@ -641,7 +641,7 @@
             "language": "Racket",
             "license": "CC0-1.0",
             "last_commit": "2021-05-13T14:58:33Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "SuzanneSoy",
             "repo": "phc-adt",
             "stars": 3,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:57:21.593Z",
+    "last_updated": "2026-09-29T02:42:34.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",

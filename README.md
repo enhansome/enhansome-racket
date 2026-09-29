@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,901 | 🐛 230 | 🌐 Go | 📅 2026-09-27.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,046 | 🐛 231 | 🌐 Go | 📅 2026-09-28.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain) ⭐ 507 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,520 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,038 | 🐛 106 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,214 | 🐛 608 | 🌐 Racket | 📅 2026-09-26
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,214 | 🐛 603 | 🌐 Racket | 📅 2026-09-29
 
 ### Contents
 
@@ -54,10 +54,10 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Tools for compiling Racket to other languages.*
 
-* [racketscript](https://github.com/racketscript/racketscript) ⭐ 737 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
+* [racketscript](https://github.com/racketscript/racketscript) ⭐ 737 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 310 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
-* [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 1 | 🌐 Scheme | 📅 2026-06-29 - Disassembler for Racket.
+* [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 1 | 🌐 Scheme | 📅 2026-09-29 - Disassembler for Racket.
 * [lens](https://github.com/jackfirth/lens) ⭐ 79 | 🐛 49 | 🌐 Racket | 📅 2019-09-10 - A Racket package for creating and composing pure functional lenses.
 * [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) ⭐ 74 | 🐛 1 | 🌐 Racket | 📅 2018-08-03 - A WebAssembly DSL.
 * [zordoz](https://github.com/bennn/zordoz) ⭐ 26 | 🐛 10 | 🌐 Racket | 📅 2021-10-24 - Explorer for .zo bytecode files.
@@ -74,7 +74,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [gls](https://github.com/Kalimehtar/gls) ⭐ 18 | 🐛 0 | 🌐 Racket | 📅 2024-05-05 - Generic Little (Object, Type, Anything, etc) System - multiple dispatch on types.
 * [dssl2](https://github.com/tov/dssl2) ⭐ 9 | 🐛 15 | 🌐 Racket | 📅 2026-08-20 - A language for data structures students.
 * [dssl](https://github.com/tov/dssl) ⭐ 5 | 🐛 0 | 🌐 Racket | 📅 2017-07-02 - Data Structures Student Language: an extension of ASL for easier imperative programming.
-* [phc-adt](https://github.com/jsmaniac/phc-adt) ⭐ 3 | 🐛 12 | 🌐 Racket | 📅 2021-05-13 - Algebraic Data Types for Typed/Racket, with features tailored to compiler writing. The data types do not have to be declared before they are used, like prefab structs and symbols. Behind the scenes, this library remembers all the data types in a file, and uses it to implicitly pre-declare them. Mostly stable, although some things may change a bit in the future.
+* [phc-adt](https://github.com/jsmaniac/phc-adt) ⭐ 3 | 🐛 11 | 🌐 Racket | 📅 2021-05-13 - Algebraic Data Types for Typed/Racket, with features tailored to compiler writing. The data types do not have to be declared before they are used, like prefab structs and symbols. Behind the scenes, this library remembers all the data types in a file, and uses it to implicitly pre-declare them. Mostly stable, although some things may change a bit in the future.
 * [quad-tree](https://github.com/dented42/racket-quad-tree) ⭐ 1 | 🐛 0 | 🌐 Racket | 📅 2016-04-08 - A fairly simple quad-tree implementation. Nothing terribly fancy. Currently rather unstable.
 * [opt](https://gitlab.com/RayRacine/opt) - Optional and Either data type utilities. Provides util function for Typed Racket's Option type as well as defines an Either type.
 * [rebellion](https://docs.racket-lang.org/rebellion/index.html) - Dozens of well-documented modules to aid in general-purpose programming. **Extensive**. Includes multidict, range set, and much more.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
