@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,046 | 🐛 231 | 🌐 Go | 📅 2026-09-28.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,177 | 🐛 231 | 🌐 Go | 📅 2026-09-28.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain) ⭐ 507 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,038 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,487 | 🐛 106 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,214 | 🐛 603 | 🌐 Racket | 📅 2026-09-29
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,215 | 🐛 604 | 🌐 Racket | 📅 2026-09-29
 
 ### Contents
 
@@ -57,7 +57,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [racketscript](https://github.com/racketscript/racketscript) ⭐ 737 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 310 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
-* [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 1 | 🌐 Scheme | 📅 2026-09-29 - Disassembler for Racket.
+* [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 0 | 🌐 Scheme | 📅 2026-09-29 - Disassembler for Racket.
 * [lens](https://github.com/jackfirth/lens) ⭐ 79 | 🐛 49 | 🌐 Racket | 📅 2019-09-10 - A Racket package for creating and composing pure functional lenses.
 * [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) ⭐ 74 | 🐛 1 | 🌐 Racket | 📅 2018-08-03 - A WebAssembly DSL.
 * [zordoz](https://github.com/bennn/zordoz) ⭐ 26 | 🐛 10 | 🌐 Racket | 📅 2021-10-24 - Explorer for .zo bytecode files.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

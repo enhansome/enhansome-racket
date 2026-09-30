@@ -358,8 +358,8 @@
             "id": 1224531,
             "language": "Scheme",
             "license": "MIT",
-            "last_commit": "2026-09-29T02:36:31Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-29T13:20:17Z",
+            "open_issues": 0,
             "owner": "samth",
             "repo": "disassemble",
             "stars": 84,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:42:34.541Z",
+    "last_updated": "2026-09-30T02:20:33.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
