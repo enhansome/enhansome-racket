@@ -2103,7 +2103,7 @@
             "language": "Racket",
             "license": "NOASSERTION",
             "last_commit": "2017-11-03T16:20:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "nihirash",
             "repo": "holy",
             "stars": 12,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:17:44.857Z",
+    "last_updated": "2026-10-03T05:02:07.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
