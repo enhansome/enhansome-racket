@@ -2,10 +2,10 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,788 | 🐛 84 | 🌐 Go | 📅 2026-10-03.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,966 | 🐛 65 | 🌐 Go | 📅 2026-10-04.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,211 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,719 | 🐛 107 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -54,7 +54,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Tools for compiling Racket to other languages.*
 
-* [racketscript](https://github.com/racketscript/racketscript) ⭐ 737 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
+* [racketscript](https://github.com/racketscript/racketscript) ⭐ 738 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 310 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
 * [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 0 | 🌐 Scheme | 📅 2026-09-29 - Disassembler for Racket.
@@ -181,7 +181,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [aws](https://github.com/greghendershott/aws) ⭐ 80 | 🐛 13 | 🌐 Racket | 📅 2026-04-17 - Amazon Web Services including S3, SDB, SES, SNS, SQS, CloudWatch, Glacier, Dynamo, and Route 53.
 * [racket-ovh](https://github.com/euhmeuh/racket-ovh) ⭐ 1 | 🐛 0 | 🌐 Racket | 📅 2018-04-06 - Unofficial Racket wrapper for OVH API.
 * [recaptcha](https://github.com/LiberalArtist/recaptcha) ⭐ 1 | 🐛 0 | 🌐 Racket | 📅 2022-12-08 - Utilities for using reCAPTCHA with the web-server/formlets API.
-* [comm-panel](https://github.com/thoughtstem/comm-panel) ⭐ 0 | 🐛 0 | 🌐 Racket | 📅 2018-06-16 - Racket GUI widget for sending, receiving, listening, and broadcasting strings over AWS SQS.
+* [comm-panel](https://github.com/thoughtstem/comm-panel) ⭐ 0 | 🐛 1 | 🌐 Racket | 📅 2018-06-16 - Racket GUI widget for sending, receiving, listening, and broadcasting strings over AWS SQS.
 * [aws-cloudformation-deploy](https://github.com/cjdev/aws-cloudformation-deploy) AWS Cloudformation deployment scripting library.
 * [google](https://github.com/tonyg/racket-google) - Google APIs (Drive, Plus, etc) for Racket.
 
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
