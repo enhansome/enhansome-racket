@@ -120,8 +120,8 @@
             "id": 21159459,
             "language": "Racket",
             "license": "Zlib",
-            "last_commit": "2024-11-09T01:16:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T09:01:32Z",
+            "open_issues": 0,
             "owner": "lehitoskin",
             "repo": "libopenal-racket",
             "stars": 3,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:40:41.803Z",
+    "last_updated": "2026-10-08T02:53:02.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
