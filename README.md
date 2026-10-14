@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,083 | 🐛 66 | 🌐 Go | 📅 2026-10-12.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,274 | 🐛 67 | 🌐 Go | 📅 2026-10-13.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,230 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,700 | 🐛 105 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,219 | 🐛 602 | 🌐 Racket | 📅 2026-10-12
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,218 | 🐛 606 | 🌐 Racket | 📅 2026-10-12
 
 ### Contents
 
@@ -54,7 +54,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Tools for compiling Racket to other languages.*
 
-* [racketscript](https://github.com/racketscript/racketscript) ⭐ 738 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
+* [racketscript](https://github.com/racketscript/racketscript) ⭐ 739 | 🐛 80 | 🌐 Racket | 📅 2026-02-18 - A lightweight Racket to JavaScript compiler with some batteries included.
 * [urlang](https://github.com/soegaard/urlang) ⭐ 310 | 🐛 8 | 🌐 Racket | 📅 2026-03-05 - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 * [minipascal](https://github.com/soegaard/minipascal) ⭐ 92 | 🐛 0 | 🌐 Pascal | 📅 2021-09-26 - MiniPascal as a Racket language.
 * [disassemble](https://github.com/samth/disassemble) ⭐ 84 | 🐛 0 | 🌐 Scheme | 📅 2026-09-29 - Disassembler for Racket.
@@ -87,7 +87,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 * [deta](https://github.com/Bogdanp/deta) ⭐ 65 | 🐛 6 | 🌐 Racket | 📅 2026-07-16 - A functional database mapper.
 * [sql](https://github.com/rmculpepper/sql) ⭐ 33 | 🐛 12 | 🌐 Racket | 📅 2022-03-24 - an S-expression notation for SQL.
 * [racquel](https://github.com/brown131/racquel) ⭐ 25 | 🐛 4 | 🌐 Racket | 📅 2021-03-10 - Racquel is an object/relational mapper for Racket.
-* [db](https://github.com/racket/db) ⭐ 24 | 🐛 3 | 🌐 Racket | 📅 2026-08-11 - Database connectivity (main distribution).
+* [db](https://github.com/racket/db) ⭐ 24 | 🐛 4 | 🌐 Racket | 📅 2026-08-11 - Database connectivity (main distribution).
 * [mongodb](https://github.com/jeapostrophe/mongodb) ⭐ 18 | 🐛 2 | 🌐 Racket | 📅 2023-01-05 - A native Racket interface to MongoDB & BSON.
 * [redis](https://github.com/stchang/redis) ⭐ 17 | 🐛 9 | 🌐 Racket | 📅 2015-05-16 - A redis client for Racket.
 * [rackdis](https://github.com/eu90h/rackdis) ⚠️ Archived - Redis bindings.
@@ -107,7 +107,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for cross platform GUI development*
 
-* [gui-easy](https://github.com/Bogdanp/racket-gui-easy) ⭐ 153 | 🐛 8 | 🌐 Racket | 📅 2026-06-12 - A declarative API on top of `racket/gui`.
+* [gui-easy](https://github.com/Bogdanp/racket-gui-easy) ⭐ 152 | 🐛 8 | 🌐 Racket | 📅 2026-06-12 - A declarative API on top of `racket/gui`.
 * [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) ⭐ 64 | 🐛 9 | 🌐 Racket | 📅 2021-05-06 - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).
 * [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution).
 * [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket.
@@ -148,7 +148,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for Machine Learning.*
 
-* [layer](https://github.com/cloudkj/layer) ⭐ 560 | 🐛 0 | 🌐 Scheme | 📅 2019-04-21 - Neural network inference the Unix way.
+* [layer](https://github.com/cloudkj/layer) ⭐ 561 | 🐛 0 | 🌐 Scheme | 📅 2019-04-21 - Neural network inference the Unix way.
 * [DeepRacket](https://github.com/charlescearl/DeepRacket) ⭐ 69 | 🐛 6 | 🌐 Racket | 📅 2026-03-28 - A simple starting point for doing deep learning in Racket.
 * [racket-ml](https://github.com/danking/racket-ml) ⭐ 25 | 🐛 2 | 🌐 Racket | 📅 2018-12-20 - A collection of things I found useful for doing Machine Learning problem sets.
 * [racket-knn](https://github.com/asbaker/racket-knn) ⭐ 16 | 🐛 0 | 🌐 Racket | 📅 2013-04-17 - K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket.
@@ -199,9 +199,9 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 *Full stack web frameworks.*
 
 * [frog](https://github.com/greghendershott/frog) ⭐ 940 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
-* [Spin](https://github.com/dmac/spin) ⭐ 231 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
-* [koyo](https://github.com/Bogdanp/koyo) ⭐ 159 | 🐛 0 | 🌐 Racket | 📅 2026-09-16 - A web development toolkit for Racket.
-* [Rackt](https://github.com/rackt-org/rackt) ⭐ 62 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
+* [Spin](https://github.com/dmac/spin) ⭐ 230 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
+* [koyo](https://github.com/Bogdanp/koyo) ⭐ 158 | 🐛 0 | 🌐 Racket | 📅 2026-09-16 - A web development toolkit for Racket.
+* [Rackt](https://github.com/rackt-org/rackt) ⭐ 61 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
 * [riposte](https://github.com/vicampo/riposte) ⭐ 46 | 🐛 7 | 🌐 Racket | 📅 2021-10-13 - Scripting language for testing JSON-based HTTP APIs.
 * [vela](https://github.com/nuty/vela) ⭐ 41 | 🐛 1 | 🌐 Racket | 📅 2023-07-14 - Simple web framework to build RESTful app in Racket.
 * [web-galaxy](https://github.com/euhmeuh/web-galaxy) ⭐ 27 | 🐛 2 | 🌐 Racket | 📅 2023-03-10 - A minimalist web framework for the Racket web-server.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
