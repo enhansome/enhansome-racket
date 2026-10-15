@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:08:29.097Z",
+    "last_updated": "2026-10-15T01:47:17.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
@@ -2135,7 +2135,7 @@
       "open_issues": 0,
       "owner": "avelino",
       "repo": "awesome-racket",
-      "stars": 506,
+      "stars": 507,
       "topics": [
         "awesome",
         "awesome-list",
