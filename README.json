@@ -1291,7 +1291,7 @@
             "language": "Racket",
             "license": "Apache-2.0",
             "last_commit": "2019-11-17T01:07:14Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "videolang",
             "repo": "video",
             "stars": 142,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:30:30.801Z",
+    "last_updated": "2026-10-18T01:29:37.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",

@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,772 | 🐛 75 | 🌐 Go | 📅 2026-10-15.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,949 | 🐛 78 | 🌐 Go | 📅 2026-10-15.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,023 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,515 | 🐛 105 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,220 | 🐛 609 | 🌐 Racket | 📅 2026-10-16
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,220 | 🐛 608 | 🌐 Racket | 📅 2026-10-17
 
 ### Contents
 
@@ -139,7 +139,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for manipulating images.*
 
-* [video](https://github.com/videolang/video) ⭐ 142 | 🐛 22 | 🌐 Racket | 📅 2019-11-17 - Video is a DSL for describing videos.
+* [video](https://github.com/videolang/video) ⭐ 142 | 🐛 21 | 🌐 Racket | 📅 2019-11-17 - Video is a DSL for describing videos.
 * [racket-jpeg](https://github.com/wingo/racket-jpeg) ⭐ 18 | 🐛 2 | 🌐 Racket | 📅 2016-09-18 - JPEG parsing, transformation, and codec library for Racket.
 * [simple-qr](https://github.com/simmone/racket-simple-qr) ⭐ 13 | 🐛 1 | 🌐 Racket | 📅 2024-06-15 - a qr code tool for racket-lang.
 * [png-image](https://github.com/lehitoskin/png-image) ⭐ 1 | 🐛 1 | 🌐 Racket | 📅 2019-05-21 - Library to view and modify PNG chunks.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
