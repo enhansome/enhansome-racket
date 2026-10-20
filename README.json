@@ -1202,7 +1202,7 @@
             "open_issues": 9,
             "owner": "massung",
             "repo": "r-cade",
-            "stars": 287,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:44.750Z"
@@ -1907,7 +1907,7 @@
             "id": 189833202,
             "language": "Racket",
             "license": null,
-            "last_commit": "2026-09-16T16:04:44Z",
+            "last_commit": "2026-10-19T12:39:12Z",
             "open_issues": 0,
             "owner": "Bogdanp",
             "repo": "koyo",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:37:01.845Z",
+    "last_updated": "2026-10-20T02:02:42.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",

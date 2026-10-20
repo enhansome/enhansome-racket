@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 189,121 | 🐛 82 | 🌐 Go | 📅 2026-10-15.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 189,287 | 🐛 83 | 🌐 Go | 📅 2026-10-19.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,993 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,504 | 🐛 105 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,222 | 🐛 608 | 🌐 Racket | 📅 2026-10-17
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,225 | 🐛 612 | 🌐 Racket | 📅 2026-10-19
 
 ### Contents
 
@@ -130,7 +130,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Games written in Racket*
 
-* [r-cade](https://github.com/massung/r-cade) ⭐ 287 | 🐛 9 | 🌐 Racket | 📅 2023-07-05 - Retro Game Engine for Racket.
+* [r-cade](https://github.com/massung/r-cade) ⭐ 286 | 🐛 9 | 🌐 Racket | 📅 2023-07-05 - Retro Game Engine for Racket.
 * [Racket games](https://github.com/racket/games) ⭐ 51 | 🐛 1 | 🌐 Racket | 📅 2026-08-11 - games in main distribution.
 * [space-invaders](https://github.com/soegaard/space-invaders) ⭐ 7 | 🐛 0 | 🌐 Racket | 📅 2015-02-21 - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 * [web-sweeper](https://github.com/Halfwake/web-sweeper) ⭐ 7 | 🐛 2 | 🌐 Racket | 📅 2017-11-21 - Stateless Server Side Mine Sweeper.
@@ -200,7 +200,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 * [frog](https://github.com/greghendershott/frog) ⭐ 940 | 🐛 41 | 🌐 Racket | 📅 2026-08-20 - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 * [Spin](https://github.com/dmac/spin) ⭐ 230 | 🐛 4 | 🌐 Racket | 📅 2017-07-27 - Write RESTful web apps in Racket.
-* [koyo](https://github.com/Bogdanp/koyo) ⭐ 158 | 🐛 0 | 🌐 Racket | 📅 2026-09-16 - A web development toolkit for Racket.
+* [koyo](https://github.com/Bogdanp/koyo) ⭐ 158 | 🐛 0 | 🌐 Racket | 📅 2026-10-19 - A web development toolkit for Racket.
 * [Rackt](https://github.com/rackt-org/rackt) ⭐ 61 | 🐛 2 | 🌐 Racket | 📅 2025-04-02 - An ultrasmall (\~70 loc) React wrapper written in RacketScript.
 * [riposte](https://github.com/vicampo/riposte) ⭐ 46 | 🐛 7 | 🌐 Racket | 📅 2021-10-13 - Scripting language for testing JSON-based HTTP APIs.
 * [vela](https://github.com/nuty/vela) ⭐ 41 | 🐛 1 | 🌐 Racket | 📅 2023-07-14 - Simple web framework to build RESTful app in Racket.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
