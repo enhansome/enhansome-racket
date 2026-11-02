@@ -759,7 +759,7 @@
             "id": 27431270,
             "language": "Racket",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-11T02:08:18Z",
+            "last_commit": "2026-11-01T18:07:56Z",
             "open_issues": 4,
             "owner": "racket",
             "repo": "db",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:31:10.984Z",
+    "last_updated": "2026-11-02T02:43:00.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
