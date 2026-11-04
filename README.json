@@ -285,7 +285,7 @@
             "open_issues": 80,
             "owner": "racketscript",
             "repo": "racketscript",
-            "stars": 739,
+            "stars": 740,
             "topics": [
               "compiler",
               "javascript",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T04:00:04.049Z",
+    "last_updated": "2026-11-04T03:12:02.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
