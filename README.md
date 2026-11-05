@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,945 | 🐛 109 | 🌐 Go | 📅 2026-11-03.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 192,114 | 🐛 112 | 🌐 Go | 📅 2026-11-03.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,401 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,082 | 🐛 103 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,230 | 🐛 602 | 🌐 Racket | 📅 2026-11-03
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,232 | 🐛 600 | 🌐 Racket | 📅 2026-11-04
 
 ### Contents
 
@@ -84,7 +84,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for connecting and operating databases.*
 
-* [deta](https://github.com/Bogdanp/deta) ⭐ 65 | 🐛 6 | 🌐 Racket | 📅 2026-07-16 - A functional database mapper.
+* [deta](https://github.com/Bogdanp/deta) ⭐ 65 | 🐛 7 | 🌐 Racket | 📅 2026-07-16 - A functional database mapper.
 * [sql](https://github.com/rmculpepper/sql) ⭐ 33 | 🐛 12 | 🌐 Racket | 📅 2022-03-24 - an S-expression notation for SQL.
 * [racquel](https://github.com/brown131/racquel) ⭐ 25 | 🐛 4 | 🌐 Racket | 📅 2021-03-10 - Racquel is an object/relational mapper for Racket.
 * [db](https://github.com/racket/db) ⭐ 24 | 🐛 4 | 🌐 Racket | 📅 2026-11-02 - Database connectivity (main distribution).
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

@@ -692,7 +692,7 @@
             "language": "Racket",
             "license": null,
             "last_commit": "2026-07-16T04:55:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Bogdanp",
             "repo": "deta",
             "stars": 65,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:12:02.480Z",
+    "last_updated": "2026-11-05T03:42:17.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
