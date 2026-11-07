@@ -691,8 +691,8 @@
             "id": 196550158,
             "language": "Racket",
             "license": null,
-            "last_commit": "2026-11-05T16:12:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T09:02:59Z",
+            "open_issues": 6,
             "owner": "Bogdanp",
             "repo": "deta",
             "stars": 65,
@@ -1907,7 +1907,7 @@
             "id": 189833202,
             "language": "Racket",
             "license": null,
-            "last_commit": "2026-10-19T12:39:12Z",
+            "last_commit": "2026-11-06T09:43:02Z",
             "open_issues": 0,
             "owner": "Bogdanp",
             "repo": "koyo",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:38:07.951Z",
+    "last_updated": "2026-11-07T03:10:20.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
