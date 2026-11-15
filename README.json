@@ -763,7 +763,7 @@
             "open_issues": 4,
             "owner": "racket",
             "repo": "db",
-            "stars": 24,
+            "stars": 22,
             "topics": [
               "racket"
             ]
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:31:20.232Z",
+    "last_updated": "2026-11-15T03:01:35.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
