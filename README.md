@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,528 | 🐛 115 | 🌐 Go | 📅 2026-11-18.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,697 | 🐛 118 | 🌐 Go | 📅 2026-11-18.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,626 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,111 | 🐛 104 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,234 | 🐛 606 | 🌐 Racket | 📅 2026-11-16
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,233 | 🐛 605 | 🌐 Racket | 📅 2026-11-18
 
 ### Contents
 
@@ -37,7 +37,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 *Libraries for manipulating audio.*
 
-* [RSound](https://github.com/jbclements/RSound) ⭐ 45 | 🐛 29 | 🌐 Racket | 📅 2026-04-02 - A framework for manipulating and playing sounds using the portaudio library. Runs on Windows, Mac OS X, and linux.
+* [RSound](https://github.com/jbclements/RSound) ⭐ 45 | 🐛 30 | 🌐 Racket | 📅 2026-04-02 - A framework for manipulating and playing sounds using the portaudio library. Runs on Windows, Mac OS X, and linux.
 * [rsc3](https://github.com/quakehead/rsc3) ⭐ 18 | 🐛 0 | 🌐 Racket | 📅 2024-09-16 - SuperCollider client ported to Racket.
 * [portaudio](https://github.com/jbclements/portaudio) ⭐ 10 | 🐛 7 | 🌐 Racket | 📅 2026-03-29 - Bindings for portaudio, a cross-platform audio library.
 * [osc](https://github.com/jbclements/osc) ⭐ 6 | 🐛 3 | 🌐 Racket | 📅 2024-02-04 - Open Sound Control data definitions.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

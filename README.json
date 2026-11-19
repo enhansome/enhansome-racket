@@ -16,7 +16,7 @@
             "language": "Racket",
             "license": null,
             "last_commit": "2026-04-02T04:27:32Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "jbclements",
             "repo": "RSound",
             "stars": 45,
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:41:20.737Z",
+    "last_updated": "2026-11-19T04:28:46.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
