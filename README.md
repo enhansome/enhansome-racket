@@ -2,16 +2,16 @@
 
 <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
-A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,456 | 🐛 109 | 🌐 Go | 📅 2026-11-22.
+A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,656 | 🐛 111 | 🌐 Go | 📅 2026-11-23.
 
 [![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,182 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,840 | 🐛 103 | 📅 2026-09-02
 
 <a href="https://www.producthunt.com/posts/awesome-racket?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-racket" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326738&theme=light" alt="awesome-racket - A curated list of awesome Racket language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
 
-[The Racket repository](https://github.com/racket/racket) ⭐ 5,234 | 🐛 606 | 🌐 Racket | 📅 2026-11-21
+[The Racket repository](https://github.com/racket/racket) ⭐ 5,236 | 🐛 604 | 🌐 Racket | 📅 2026-11-23
 
 ### Contents
 
@@ -70,7 +70,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 *Generic datastructures and algorithms.*
 
 * [algebraic](https://github.com/dedbox/racket-algebraic) ⭐ 78 | 🐛 36 | 🌐 Racket | 📅 2024-07-16 - Algebraic structures for untyped Racket.
-* [graph](https://github.com/stchang/graph) ⭐ 60 | 🐛 18 | 🌐 Racket | 📅 2023-11-21 - Generic graph library.
+* [graph](https://github.com/stchang/graph) ⭐ 61 | 🐛 18 | 🌐 Racket | 📅 2023-11-21 - Generic graph library.
 * [gls](https://github.com/Kalimehtar/gls) ⭐ 18 | 🐛 0 | 🌐 Racket | 📅 2024-05-05 - Generic Little (Object, Type, Anything, etc) System - multiple dispatch on types.
 * [dssl2](https://github.com/tov/dssl2) ⭐ 9 | 🐛 15 | 🌐 Racket | 📅 2026-08-20 - A language for data structures students.
 * [dssl](https://github.com/tov/dssl) ⭐ 5 | 🐛 0 | 🌐 Racket | 📅 2017-07-02 - Data Structures Student Language: an extension of ASL for easier imperative programming.
@@ -213,4 +213,4 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

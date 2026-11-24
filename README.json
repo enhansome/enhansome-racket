@@ -554,7 +554,7 @@
             "open_issues": 18,
             "owner": "stchang",
             "repo": "graph",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "algorithms",
               "graph",
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:58:37.223Z",
+    "last_updated": "2026-11-24T07:04:17.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Racket frameworks, libraries and software, maintained by Community",
